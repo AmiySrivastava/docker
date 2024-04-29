@@ -1,2 +1,2 @@
 # docker
-This repo will be used for Docker project using Java
+This repo is a Spring Boot Docker project !
